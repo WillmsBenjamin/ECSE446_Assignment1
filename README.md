@@ -1,4 +1,4 @@
-# ECSE446_Assignment1
+# Realistic Image Synthesis - Assignment 1
 ### Basic rendering exercise for Ray Tracing and Rasterization
 ### Note that this repo does not include all of the code necessary to run the renderer, only those files which the student was allowed to interact with directly.
 
